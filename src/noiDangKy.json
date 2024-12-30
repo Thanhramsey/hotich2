@@ -1,3122 +1,1166 @@
 [
-    {
-      "idDanhMuc": "64",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "2",
-      "maDonViHanhChinh": "64",
-      "tenDonViHanhChinh": "Sở Tư pháp Gia Lai",
-      "tenDayDuDonViHanhChinh": "UBND tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "0",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "64",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34589",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23572",
-      "tenDonViHanhChinh": "UBND Phường Hoa Lư",
-      "tenDayDuDonViHanhChinh": "UBND phường Hoa Lư, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34589",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34592",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23579",
-      "tenDonViHanhChinh": "UBND Phường Đống Đa",
-      "tenDayDuDonViHanhChinh": "UBND phường Đống Đa, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34592",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34596",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23586",
-      "tenDonViHanhChinh": "UBND Phường Chi Lăng",
-      "tenDayDuDonViHanhChinh": "UBND phường Chi Lăng, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34596",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34598",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23590",
-      "tenDonViHanhChinh": "UBND Xã Biển Hồ",
-      "tenDayDuDonViHanhChinh": "UBND xã Biển Hồ, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34598",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34605",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23611",
-      "tenDonViHanhChinh": "UBND Xã Gào",
-      "tenDayDuDonViHanhChinh": "UBND xã Gào, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34605",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34609",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23623",
-      "tenDonViHanhChinh": "UBND Phường An Tân",
-      "tenDayDuDonViHanhChinh": "UBND phường An Tân, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34609",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34612",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23629",
-      "tenDonViHanhChinh": "UBND Xã Cửu An",
-      "tenDayDuDonViHanhChinh": "UBND xã Cửu An, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34612",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34617",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24041",
-      "tenDonViHanhChinh": "UBND Phường Cheo Reo",
-      "tenDayDuDonViHanhChinh": "UBND phường Cheo Reo, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34617",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34630",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23653",
-      "tenDonViHanhChinh": "UBND Xã Sơ Pai",
-      "tenDayDuDonViHanhChinh": "UBND xã Sơ Pai, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34630",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34633",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23660",
-      "tenDonViHanhChinh": "UBND Xã Đak SMar",
-      "tenDayDuDonViHanhChinh": "UBND xã Đak SMar, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34633",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34635",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23665",
-      "tenDonViHanhChinh": "UBND Xã Tơ Tung",
-      "tenDayDuDonViHanhChinh": "UBND xã Tơ Tung, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34635",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34638",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23671",
-      "tenDonViHanhChinh": "UBND Xã Đăk HLơ",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk HLơ, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34638",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34651",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23710",
-      "tenDonViHanhChinh": "UBND Xã A Dơk",
-      "tenDayDuDonViHanhChinh": "UBND xã A Dơk, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34651",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34658",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23728",
-      "tenDonViHanhChinh": "UBND Xã Ia Khươl",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Khươl, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34658",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34660",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23734",
-      "tenDonViHanhChinh": "UBND Thị trấn Ia Ly",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Ia Ly, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34660",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34661",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23737",
-      "tenDonViHanhChinh": "UBND Xã Ia Mơ Nông",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Mơ Nông, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34661",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34664",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23743",
-      "tenDonViHanhChinh": "UBND Xã Hòa Phú",
-      "tenDayDuDonViHanhChinh": "UBND xã Hòa Phú, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34664",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34667",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23752",
-      "tenDonViHanhChinh": "UBND Xã Ia Nhin",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Nhin, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34667",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34671",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23764",
-      "tenDonViHanhChinh": "UBND Thị trấn Ia Kha",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Ia Kha, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34671",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34673",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23768",
-      "tenDonViHanhChinh": "UBND Xã Ia Yok",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Yok, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34673",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34675",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23771",
-      "tenDonViHanhChinh": "UBND Xã Ia Bă",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Bă, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34675",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34680",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23782",
-      "tenDonViHanhChinh": "UBND Xã Ia O",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia O, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34680",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34681",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23785",
-      "tenDonViHanhChinh": "UBND Xã Ia Dêr",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Dêr, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34681",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34688",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23800",
-      "tenDonViHanhChinh": "UBND Xã Hà Ra",
-      "tenDayDuDonViHanhChinh": "UBND xã Hà Ra, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34688",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34689",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23803",
-      "tenDonViHanhChinh": "UBND Xã Đăk Yă",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Yă, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34689",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34692",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23812",
-      "tenDonViHanhChinh": "UBND Xã Kon Thụp",
-      "tenDayDuDonViHanhChinh": "UBND xã Kon Thụp, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34692",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34694",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23818",
-      "tenDonViHanhChinh": "UBND Xã Kon Chiêng",
-      "tenDayDuDonViHanhChinh": "UBND xã Kon Chiêng, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34694",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34696",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23824",
-      "tenDonViHanhChinh": "UBND Thị trấn Kông Chro",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Kông Chro, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34696",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34704",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23843",
-      "tenDonViHanhChinh": "UBND Xã Đăk Pling",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Pling, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34704",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34706",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23846",
-      "tenDonViHanhChinh": "UBND Xã Đăk Pơ Pho",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Pơ Pho, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34706",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34708",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23851",
-      "tenDonViHanhChinh": "UBND Xã Chơ Long",
-      "tenDayDuDonViHanhChinh": "UBND xã Chơ Long, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34708",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34711",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23860",
-      "tenDonViHanhChinh": "UBND Xã Ia Dơk",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Dơk, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34711",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34727",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23905",
-      "tenDonViHanhChinh": "UBND Xã Ia Băng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Băng, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34727",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34731",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23917",
-      "tenDonViHanhChinh": "UBND Xã Ia Púch",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Púch, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34731",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34734",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23924",
-      "tenDonViHanhChinh": "UBND Xã Ia Bang",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Bang, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34734",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34746",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23953",
-      "tenDonViHanhChinh": "UBND Xã AL Bá",
-      "tenDayDuDonViHanhChinh": "UBND xã AL Bá, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34746",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34747",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23954",
-      "tenDonViHanhChinh": "UBND Xã Kông HTok",
-      "tenDayDuDonViHanhChinh": "UBND xã Kông HTok, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34747",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36343",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24037",
-      "tenDonViHanhChinh": "UBND Xã Ia Trok",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Trok, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36343",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36339",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24025",
-      "tenDonViHanhChinh": "UBND Xã Chư Mố",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Mố, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36339",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36361",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24049",
-      "tenDonViHanhChinh": "UBND Xã Ia Ake",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Ake, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36361",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34599",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23593",
-      "tenDonViHanhChinh": "UBND Xã Tân Sơn",
-      "tenDayDuDonViHanhChinh": "UBND xã Tân Sơn, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34599",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34624",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24073",
-      "tenDonViHanhChinh": "UBND Xã Ia Sao",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Sao, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34624",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34707",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23848",
-      "tenDonViHanhChinh": "UBND Xã Ya Ma",
-      "tenDayDuDonViHanhChinh": "UBND xã Ya Ma, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34707",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34721",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23888",
-      "tenDonViHanhChinh": "UBND Xã Ia Kly",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Kly, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34721",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34743",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23946",
-      "tenDonViHanhChinh": "UBND Xã Bar Măih",
-      "tenDayDuDonViHanhChinh": "UBND xã Bar Măih, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34743",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36326",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23977",
-      "tenDonViHanhChinh": "UBND Xã Ia Ko",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Ko, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36326",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36334",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24010",
-      "tenDonViHanhChinh": "UBND Xã Ya Hội",
-      "tenDayDuDonViHanhChinh": "UBND xã Ya Hội, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36334",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36341",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24031",
-      "tenDonViHanhChinh": "UBND Xã Ia Ma Rơn",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Ma Rơn, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36341",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36348",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24088",
-      "tenDonViHanhChinh": "UBND Xã Đất Bằng",
-      "tenDayDuDonViHanhChinh": "UBND xã Đất Bằng, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36348",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36350",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24094",
-      "tenDonViHanhChinh": "UBND Xã Chư Drăng",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Drăng, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36350",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34733",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23923",
-      "tenDonViHanhChinh": "UBND Xã Ia Vê",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Vê, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34733",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34749",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23959",
-      "tenDonViHanhChinh": "UBND Xã Ia HLốp",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia HLốp, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34749",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36329",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23995",
-      "tenDonViHanhChinh": "UBND Thị trấn Đak Pơ",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Đak Pơ, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36329",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34588",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23570",
-      "tenDonViHanhChinh": "UBND Phường Phù Đổng",
-      "tenDayDuDonViHanhChinh": "UBND phường Phù Đổng, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34588",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34639",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23677",
-      "tenDonViHanhChinh": "UBND Thị trấn Đăk Đoa",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Đăk Đoa, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34639",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34657",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23725",
-      "tenDonViHanhChinh": "UBND Xã Hà Tây",
-      "tenDayDuDonViHanhChinh": "UBND xã Hà Tây, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34657",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34674",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23770",
-      "tenDonViHanhChinh": "UBND Xã Ia Hrung",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Hrung, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34674",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34690",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23806",
-      "tenDonViHanhChinh": "UBND Xã Đăk Djrăng",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Djrăng, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34690",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34736",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23929",
-      "tenDonViHanhChinh": "UBND Xã Ia Ga",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Ga, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34736",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34751",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23965",
-      "tenDonViHanhChinh": "UBND Xã Dun",
-      "tenDayDuDonViHanhChinh": "UBND xã Dun, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34751",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36324",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23966",
-      "tenDonViHanhChinh": "UBND Xã Ia Pal",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Pal, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36324",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36327",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23989",
-      "tenDonViHanhChinh": "UBND Xã Hà Tam",
-      "tenDayDuDonViHanhChinh": "UBND xã Hà Tam, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36327",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36333",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24007",
-      "tenDonViHanhChinh": "UBND Xã Phú An",
-      "tenDayDuDonViHanhChinh": "UBND xã Phú An, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36333",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36336",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24016",
-      "tenDonViHanhChinh": "UBND Xã Chư Răng",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Răng, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36336",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36340",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24028",
-      "tenDonViHanhChinh": "UBND Xã Ia Tul",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Tul, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36340",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36342",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24034",
-      "tenDonViHanhChinh": "UBND Xã Ia Broăi",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Broăi, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36342",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36351",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24097",
-      "tenDonViHanhChinh": "UBND Xã Phú Cần",
-      "tenDayDuDonViHanhChinh": "UBND xã Phú Cần, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36351",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36354",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24106",
-      "tenDonViHanhChinh": "UBND Xã Chư Ngọc",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Ngọc, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36354",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36357",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24115",
-      "tenDonViHanhChinh": "UBND Xã Krông Năng",
-      "tenDayDuDonViHanhChinh": "UBND xã Krông Năng, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36357",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36363",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24055",
-      "tenDonViHanhChinh": "UBND Xã Ia Piar",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Piar, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36363",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36371",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23974",
-      "tenDonViHanhChinh": "UBND Xã Ia Dreng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Dreng, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36371",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34713",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23866",
-      "tenDonViHanhChinh": "UBND Xã Ia Din",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Din, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34713",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34730",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23914",
-      "tenDonViHanhChinh": "UBND Xã Ia O",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia O, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34730",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34745",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23950",
-      "tenDonViHanhChinh": "UBND Xã Ia Glai",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Glai, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34745",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34627",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23644",
-      "tenDonViHanhChinh": "UBND Xã Đăk Roong",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Roong, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34627",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34740",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23941",
-      "tenDonViHanhChinh": "UBND Thị trấn Chư Sê",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Chư Sê, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34740",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34644",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23689",
-      "tenDonViHanhChinh": "UBND Xã Kon Gang",
-      "tenDayDuDonViHanhChinh": "UBND xã Kon Gang, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34644",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "625",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "622",
-      "tenDonViHanhChinh": "UBND Thành phố Pleiku",
-      "tenDayDuDonViHanhChinh": "UBND thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "625",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36325",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23968",
-      "tenDonViHanhChinh": "UBND Xã H Bông",
-      "tenDayDuDonViHanhChinh": "UBND xã H Bông, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36325",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36338",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24022",
-      "tenDonViHanhChinh": "UBND Xã Kim Tân",
-      "tenDayDuDonViHanhChinh": "UBND xã Kim Tân, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36338",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "627",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "624",
-      "tenDonViHanhChinh": "UBND Thị xã Ayun Pa",
-      "tenDayDuDonViHanhChinh": "UBND thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "627",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "629",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "626",
-      "tenDonViHanhChinh": "UBND Huyện Đăk Đoa",
-      "tenDayDuDonViHanhChinh": "UBND huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "629",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "632",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "629",
-      "tenDonViHanhChinh": "UBND Huyện Mang Yang",
-      "tenDayDuDonViHanhChinh": "UBND huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "632",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "637",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "634",
-      "tenDonViHanhChinh": "UBND Huyện Đăk Pơ",
-      "tenDayDuDonViHanhChinh": "UBND huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "637",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "641",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "639",
-      "tenDonViHanhChinh": "UBND Huyện Chư Pưh",
-      "tenDayDuDonViHanhChinh": "UBND huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "641",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34616",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23635",
-      "tenDonViHanhChinh": "UBND Xã Thành An",
-      "tenDayDuDonViHanhChinh": "UBND xã Thành An, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34616",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36345",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24079",
-      "tenDonViHanhChinh": "UBND Xã Ia RSai",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia RSai, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36345",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36359",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24046",
-      "tenDonViHanhChinh": "UBND Xã Chư A Thai",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư A Thai, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36359",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36360",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24048",
-      "tenDonViHanhChinh": "UBND Xã Ayun Hạ",
-      "tenDayDuDonViHanhChinh": "UBND xã Ayun Hạ, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36360",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36370",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23972",
-      "tenDonViHanhChinh": "UBND Xã Ia Rong",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Rong, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36370",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36372",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23978",
-      "tenDonViHanhChinh": "UBND Xã Ia Hla",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Hla, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36372",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34686",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23798",
-      "tenDonViHanhChinh": "UBND Xã Đak Jơ Ta",
-      "tenDayDuDonViHanhChinh": "UBND xã Đak Jơ Ta, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34686",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34709",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23854",
-      "tenDonViHanhChinh": "UBND Xã Yang Nam",
-      "tenDayDuDonViHanhChinh": "UBND xã Yang Nam, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34709",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34720",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23887",
-      "tenDonViHanhChinh": "UBND Thị trấn Chư Prông",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Chư Prông, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34720",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34628",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23647",
-      "tenDonViHanhChinh": "UBND Xã Sơn Lang",
-      "tenDayDuDonViHanhChinh": "UBND xã Sơn Lang, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34628",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34640",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23680",
-      "tenDonViHanhChinh": "UBND Xã Hà Đông",
-      "tenDayDuDonViHanhChinh": "UBND xã Hà Đông, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34640",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34655",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23719",
-      "tenDonViHanhChinh": "UBND Xã Ia Băng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Băng, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34655",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34715",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23872",
-      "tenDonViHanhChinh": "UBND Xã Ia Dom",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Dom, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34715",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34613",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23630",
-      "tenDonViHanhChinh": "UBND Phường An Phước",
-      "tenDayDuDonViHanhChinh": "UBND phường An Phước, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34613",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34634",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23662",
-      "tenDonViHanhChinh": "UBND Xã Nghĩa An",
-      "tenDayDuDonViHanhChinh": "UBND xã Nghĩa An, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34634",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34614",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23632",
-      "tenDonViHanhChinh": "UBND Xã Song An",
-      "tenDayDuDonViHanhChinh": "UBND xã Song An, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34614",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34653",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23714",
-      "tenDonViHanhChinh": "UBND Xã HNol",
-      "tenDayDuDonViHanhChinh": "UBND xã HNol, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34653",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34656",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23722",
-      "tenDonViHanhChinh": "UBND Thị trấn Phú Hòa",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Phú Hòa, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34656",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34662",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23738",
-      "tenDonViHanhChinh": "UBND Xã Ia Kreng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Kreng, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34662",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34670",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23761",
-      "tenDonViHanhChinh": "UBND Xã Nghĩa Hưng",
-      "tenDayDuDonViHanhChinh": "UBND xã Nghĩa Hưng, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34670",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34659",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23731",
-      "tenDonViHanhChinh": "UBND Xã Ia Phí",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Phí, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34659",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34717",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23878",
-      "tenDonViHanhChinh": "UBND Xã Ia Kriêng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Kriêng, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34717",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34691",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23809",
-      "tenDonViHanhChinh": "UBND Xã Lơ Pang",
-      "tenDayDuDonViHanhChinh": "UBND xã Lơ Pang, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34691",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34693",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23815",
-      "tenDonViHanhChinh": "UBND Xã Đê Ar",
-      "tenDayDuDonViHanhChinh": "UBND xã Đê Ar, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34693",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34695",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23821",
-      "tenDonViHanhChinh": "UBND Xã Đăk Trôi",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Trôi, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34695",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34703",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23842",
-      "tenDonViHanhChinh": "UBND Xã Đăk Song",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Song, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34703",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34705",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23845",
-      "tenDonViHanhChinh": "UBND Xã Yang Trung",
-      "tenDayDuDonViHanhChinh": "UBND xã Yang Trung, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34705",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34716",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23875",
-      "tenDonViHanhChinh": "UBND Xã Ia Lang",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Lang, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34716",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34723",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23893",
-      "tenDonViHanhChinh": "UBND Xã Ia Drăng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Drăng, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34723",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34726",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23902",
-      "tenDonViHanhChinh": "UBND Xã Ia Phìn",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Phìn, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34726",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34732",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23920",
-      "tenDonViHanhChinh": "UBND Xã Ia Me",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Me, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34732",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34742",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23945",
-      "tenDonViHanhChinh": "UBND Xã Chư Pơng",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Pơng, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34742",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "631",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "628",
-      "tenDonViHanhChinh": "UBND Huyện Ia Grai",
-      "tenDayDuDonViHanhChinh": "UBND huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "631",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "636",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "633",
-      "tenDonViHanhChinh": "UBND Huyện Chư Sê",
-      "tenDayDuDonViHanhChinh": "UBND huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "636",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "638",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "635",
-      "tenDonViHanhChinh": "UBND Huyện Ia Pa",
-      "tenDayDuDonViHanhChinh": "UBND huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "638",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36332",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24004",
-      "tenDonViHanhChinh": "UBND Xã Tân An",
-      "tenDayDuDonViHanhChinh": "UBND xã Tân An, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36332",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34677",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23776",
-      "tenDonViHanhChinh": "UBND Xã Ia KRai",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia KRai, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34677",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34679",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23779",
-      "tenDonViHanhChinh": "UBND Xã Ia Tô",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Tô, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34679",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34683",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23791",
-      "tenDonViHanhChinh": "UBND Xã Ia Pếch",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Pếch, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34683",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34687",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23799",
-      "tenDonViHanhChinh": "UBND Xã Đak Ta Ley",
-      "tenDayDuDonViHanhChinh": "UBND xã Đak Ta Ley, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34687",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34611",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23627",
-      "tenDonViHanhChinh": "UBND Xã Xuân An",
-      "tenDayDuDonViHanhChinh": "UBND xã Xuân An, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34611",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34583",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23557",
-      "tenDonViHanhChinh": "UBND Phường Yên Đỗ",
-      "tenDayDuDonViHanhChinh": "UBND phường Yên Đỗ, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34583",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34590",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23575",
-      "tenDonViHanhChinh": "UBND Phường Tây Sơn",
-      "tenDayDuDonViHanhChinh": "UBND phường Tây Sơn, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34590",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34593",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23581",
-      "tenDonViHanhChinh": "UBND Phường Trà Bá",
-      "tenDayDuDonViHanhChinh": "UBND phường Trà Bá, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34593",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34597",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23587",
-      "tenDonViHanhChinh": "UBND Xã Chư HDrông",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư HDrông, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34597",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34606",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23614",
-      "tenDonViHanhChinh": "UBND Phường An Bình",
-      "tenDayDuDonViHanhChinh": "UBND phường An Bình, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34606",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "635",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "632",
-      "tenDonViHanhChinh": "UBND Huyện Chư Prông",
-      "tenDayDuDonViHanhChinh": "UBND huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "635",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "630",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "627",
-      "tenDonViHanhChinh": "UBND Huyện Chư Păh",
-      "tenDayDuDonViHanhChinh": "UBND huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "630",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34594",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23582",
-      "tenDonViHanhChinh": "UBND Phường Thắng Lợi",
-      "tenDayDuDonViHanhChinh": "UBND phường Thắng Lợi, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34594",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34722",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23890",
-      "tenDonViHanhChinh": "UBND Xã Bình Giáo",
-      "tenDayDuDonViHanhChinh": "UBND xã Bình Giáo, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34722",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34608",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23620",
-      "tenDonViHanhChinh": "UBND Phường An Phú",
-      "tenDayDuDonViHanhChinh": "UBND phường An Phú, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34608",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34618",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24042",
-      "tenDonViHanhChinh": "UBND Phường Hòa Bình",
-      "tenDayDuDonViHanhChinh": "UBND phường Hòa Bình, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34618",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34620",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24045",
-      "tenDonViHanhChinh": "UBND Phường Sông Bờ",
-      "tenDayDuDonViHanhChinh": "UBND phường Sông Bờ, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34620",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34626",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23641",
-      "tenDonViHanhChinh": "UBND Xã Kon Pne",
-      "tenDayDuDonViHanhChinh": "UBND xã Kon Pne, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34626",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34632",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23659",
-      "tenDonViHanhChinh": "UBND Xã Đông",
-      "tenDayDuDonViHanhChinh": "UBND xã Đông, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34632",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34642",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23684",
-      "tenDonViHanhChinh": "UBND Xã Đăk Krong",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Krong, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34642",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34645",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23692",
-      "tenDonViHanhChinh": "UBND Xã Hà Bầu",
-      "tenDayDuDonViHanhChinh": "UBND xã Hà Bầu, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34645",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34650",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23707",
-      "tenDonViHanhChinh": "UBND Xã Glar",
-      "tenDayDuDonViHanhChinh": "UBND xã Glar, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34650",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34648",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23701",
-      "tenDonViHanhChinh": "UBND Xã Hu0027 Neng",
-      "tenDayDuDonViHanhChinh": "UBND xã Hu0027 Neng, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34648",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34610",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23626",
-      "tenDonViHanhChinh": "UBND Xã Tú An",
-      "tenDayDuDonViHanhChinh": "UBND xã Tú An, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34610",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34622",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24065",
-      "tenDonViHanhChinh": "UBND Xã Chư Băh",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Băh, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34622",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34646",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23695",
-      "tenDonViHanhChinh": "UBND Xã Nam Yang",
-      "tenDayDuDonViHanhChinh": "UBND xã Nam Yang, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34646",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34669",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23758",
-      "tenDonViHanhChinh": "UBND Xã Chư Jôr",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Jôr, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34669",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34684",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23794",
-      "tenDonViHanhChinh": "UBND Thị trấn Kon Dơng",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Kon Dơng, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34684",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34702",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23840",
-      "tenDonViHanhChinh": "UBND Xã Đắk Kơ Ning",
-      "tenDayDuDonViHanhChinh": "UBND xã Đắk Kơ Ning, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34702",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34718",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23881",
-      "tenDonViHanhChinh": "UBND Xã Ia Pnôn",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Pnôn, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34718",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "640",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "638",
-      "tenDonViHanhChinh": "UBND Huyện Phú Thiện",
-      "tenDayDuDonViHanhChinh": "UBND huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "640",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34604",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23608",
-      "tenDonViHanhChinh": "UBND Xã Ia Kênh",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Kênh, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34604",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34738",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23935",
-      "tenDonViHanhChinh": "UBND Xã Ia Piơr",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Piơr, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34738",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34737",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23932",
-      "tenDonViHanhChinh": "UBND Xã Ia Lâu",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Lâu, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34737",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34682",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23788",
-      "tenDonViHanhChinh": "UBND Xã Ia Chia",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Chia, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34682",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36376",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23987",
-      "tenDonViHanhChinh": "UBND Xã Ia BLứ",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia BLứ, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36376",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34678",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23778",
-      "tenDonViHanhChinh": "UBND Xã Ia Grăng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Grăng, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34678",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34724",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23896",
-      "tenDonViHanhChinh": "UBND Xã Thăng Hưng",
-      "tenDayDuDonViHanhChinh": "UBND xã Thăng Hưng, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34724",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34607",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23617",
-      "tenDonViHanhChinh": "UBND Phường Tây Sơn",
-      "tenDayDuDonViHanhChinh": "UBND phường Tây Sơn, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34607",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34714",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23869",
-      "tenDonViHanhChinh": "UBND Xã Ia Kla",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Kla, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34714",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36335",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24013",
-      "tenDonViHanhChinh": "UBND Xã Pờ Tó",
-      "tenDayDuDonViHanhChinh": "UBND xã Pờ Tó, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36335",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36346",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24082",
-      "tenDonViHanhChinh": "UBND Xã Ia RSươm",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia RSươm, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36346",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34625",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23638",
-      "tenDonViHanhChinh": "UBND Thị trấn KBang",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn KBang, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34625",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34647",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23698",
-      "tenDonViHanhChinh": "UBND Xã Ku0027 Dang",
-      "tenDayDuDonViHanhChinh": "UBND xã Ku0027 Dang, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34647",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34700",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23836",
-      "tenDonViHanhChinh": "UBND Xã Đăk Tơ Pang",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Tơ Pang, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34700",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "628",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "625",
-      "tenDonViHanhChinh": "UBND Huyện KBang",
-      "tenDayDuDonViHanhChinh": "UBND huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "628",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "639",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "637",
-      "tenDonViHanhChinh": "UBND Huyện Krông Pa",
-      "tenDayDuDonViHanhChinh": "UBND huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "639",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36352",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24100",
-      "tenDonViHanhChinh": "UBND Xã Ia HDreh",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia HDreh, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36352",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36331",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24001",
-      "tenDonViHanhChinh": "UBND Xã Cư An",
-      "tenDayDuDonViHanhChinh": "UBND xã Cư An, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36331",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36356",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24112",
-      "tenDonViHanhChinh": "UBND Xã Chư Rcăm",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Rcăm, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36356",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34591",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23578",
-      "tenDonViHanhChinh": "UBND Phường Thống Nhất",
-      "tenDayDuDonViHanhChinh": "UBND phường Thống Nhất, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34591",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34663",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23740",
-      "tenDonViHanhChinh": "UBND Xã Đăk Tơ Ver",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Tơ Ver, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34663",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36365",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24060",
-      "tenDonViHanhChinh": "UBND Xã Chrôh Pơnan",
-      "tenDayDuDonViHanhChinh": "UBND xã Chrôh Pơnan, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36365",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36368",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23942",
-      "tenDonViHanhChinh": "UBND Thị trấn Nhơn Hoà",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Nhơn Hoà, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36368",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34637",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23674",
-      "tenDonViHanhChinh": "UBND Xã Kông Pla",
-      "tenDayDuDonViHanhChinh": "UBND xã Kông Pla, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34637",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34750",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23962",
-      "tenDonViHanhChinh": "UBND Xã Ia Blang",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Blang, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34750",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36375",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23986",
-      "tenDonViHanhChinh": "UBND Xã Ia Le",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Le, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36375",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34587",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23569",
-      "tenDonViHanhChinh": "UBND Phường Hội Phú",
-      "tenDayDuDonViHanhChinh": "UBND phường Hội Phú, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34587",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34601",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23599",
-      "tenDonViHanhChinh": "UBND Xã Chư Á",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Á, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34601",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34619",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24044",
-      "tenDonViHanhChinh": "UBND Phường Đoàn Kết",
-      "tenDayDuDonViHanhChinh": "UBND phường Đoàn Kết, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34619",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34643",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23686",
-      "tenDonViHanhChinh": "UBND Xã Hải Yang",
-      "tenDayDuDonViHanhChinh": "UBND xã Hải Yang, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34643",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34698",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23830",
-      "tenDonViHanhChinh": "UBND Xã An Trung",
-      "tenDayDuDonViHanhChinh": "UBND xã An Trung, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34698",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34712",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23863",
-      "tenDonViHanhChinh": "UBND Xã Ia Krêl",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Krêl, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34712",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34741",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23944",
-      "tenDonViHanhChinh": "UBND Xã Ia Tiêm",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Tiêm, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34741",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34685",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23797",
-      "tenDonViHanhChinh": "UBND Xã Ayun",
-      "tenDayDuDonViHanhChinh": "UBND xã Ayun, huyện Mang Yang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "632",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34685",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34649",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23704",
-      "tenDonViHanhChinh": "UBND Xã Tân Bình",
-      "tenDayDuDonViHanhChinh": "UBND xã Tân Bình, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34649",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36330",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23998",
-      "tenDonViHanhChinh": "UBND Xã Yang Bắc",
-      "tenDayDuDonViHanhChinh": "UBND xã Yang Bắc, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36330",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34641",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23683",
-      "tenDonViHanhChinh": "UBND Xã Đăk Sơmei",
-      "tenDayDuDonViHanhChinh": "UBND xã Đăk Sơmei, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34641",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36373",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23980",
-      "tenDonViHanhChinh": "UBND Xã Chư Don",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Don, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36373",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36362",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24052",
-      "tenDonViHanhChinh": "UBND Xã Ia Sol",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Sol, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36362",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36374",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23983",
-      "tenDonViHanhChinh": "UBND Xã Ia Phang",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Phang, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36374",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34623",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24070",
-      "tenDonViHanhChinh": "UBND Xã Ia RTô",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia RTô, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34623",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36347",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24085",
-      "tenDonViHanhChinh": "UBND Xã Chư Gu",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Gu, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36347",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "626",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "623",
-      "tenDonViHanhChinh": "UBND Thị xã An Khê",
-      "tenDayDuDonViHanhChinh": "UBND thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "626",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34665",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23746",
-      "tenDonViHanhChinh": "UBND Xã Chư Đăng Ya",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Đăng Ya, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34665",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36364",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24058",
-      "tenDonViHanhChinh": "UBND Xã Ia Peng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Peng, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36364",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34725",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23899",
-      "tenDonViHanhChinh": "UBND Xã Bàu Cạn",
-      "tenDayDuDonViHanhChinh": "UBND xã Bàu Cạn, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34725",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34585",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23563",
-      "tenDonViHanhChinh": "UBND Phường Ia Kring",
-      "tenDayDuDonViHanhChinh": "UBND phường Ia Kring, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34585",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34672",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23767",
-      "tenDonViHanhChinh": "UBND Xã Ia Sao",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Sao, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34672",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34735",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23926",
-      "tenDonViHanhChinh": "UBND Xã Ia Pia",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Pia, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34735",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34654",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23716",
-      "tenDonViHanhChinh": "UBND Xã Ia Pết",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Pết, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34654",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34697",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23827",
-      "tenDonViHanhChinh": "UBND Xã Chư Krêy",
-      "tenDayDuDonViHanhChinh": "UBND xã Chư Krêy, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34697",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34631",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23656",
-      "tenDonViHanhChinh": "UBND Xã Lơ Ku",
-      "tenDayDuDonViHanhChinh": "UBND xã Lơ Ku, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34631",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34728",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23908",
-      "tenDonViHanhChinh": "UBND Xã Ia Tôr",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Tôr, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34728",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36328",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23992",
-      "tenDonViHanhChinh": "UBND Xã An Thành",
-      "tenDayDuDonViHanhChinh": "UBND xã An Thành, huyện Đăk Pơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "637",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36328",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36349",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24091",
-      "tenDonViHanhChinh": "UBND Xã Ia Mláh",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Mláh, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36349",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36366",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24061",
-      "tenDonViHanhChinh": "UBND Xã Ia Hiao",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Hiao, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36366",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34748",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23956",
-      "tenDonViHanhChinh": "UBND Xã AYun",
-      "tenDayDuDonViHanhChinh": "UBND xã AYun, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34748",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34710",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23857",
-      "tenDonViHanhChinh": "UBND Thị trấn Chư Ty",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Chư Ty, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34710",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34699",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23833",
-      "tenDonViHanhChinh": "UBND Xã Kông Yang",
-      "tenDayDuDonViHanhChinh": "UBND xã Kông Yang, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34699",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34636",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23668",
-      "tenDonViHanhChinh": "UBND Xã Kông Lơng Khơng",
-      "tenDayDuDonViHanhChinh": "UBND xã Kông Lơng Khơng, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34636",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "633",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "630",
-      "tenDonViHanhChinh": "UBND Huyện Kông Chro",
-      "tenDayDuDonViHanhChinh": "UBND huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "633",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36358",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24043",
-      "tenDonViHanhChinh": "UBND Thị trấn Phú Thiện",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Phú Thiện, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36358",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36369",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23971",
-      "tenDonViHanhChinh": "UBND Xã Ia Hrú",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Hrú, huyện Chư Pưh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "641",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36369",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34739",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23938",
-      "tenDonViHanhChinh": "UBND Xã Ia Mơ",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Mơ, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34739",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34676",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23773",
-      "tenDonViHanhChinh": "UBND Xã Ia Khai",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Khai, huyện Ia Grai, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "631",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34676",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34615",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23633",
-      "tenDonViHanhChinh": "UBND Phường Ngô Mây",
-      "tenDayDuDonViHanhChinh": "UBND phường Ngô Mây, thị xã An Khê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "626",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34615",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36353",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24103",
-      "tenDonViHanhChinh": "UBND Xã Ia RMok",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia RMok, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36353",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34595",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23584",
-      "tenDonViHanhChinh": "UBND Phường Yên Thế",
-      "tenDayDuDonViHanhChinh": "UBND phường Yên Thế, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34595",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34666",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23749",
-      "tenDonViHanhChinh": "UBND Xã Ia Ka",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Ka, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34666",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34586",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23566",
-      "tenDonViHanhChinh": "UBND Phường Hội Thương",
-      "tenDayDuDonViHanhChinh": "UBND phường Hội Thương, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34586",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34603",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23605",
-      "tenDonViHanhChinh": "UBND Xã Diên Phú",
-      "tenDayDuDonViHanhChinh": "UBND xã Diên Phú, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34603",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34621",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24064",
-      "tenDonViHanhChinh": "UBND Xã Ia RBol",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia RBol, thị xã Ayun Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "627",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34621",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34584",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23560",
-      "tenDonViHanhChinh": "UBND Phường Diên Hồng",
-      "tenDayDuDonViHanhChinh": "UBND phường Diên Hồng, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34584",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36367",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24067",
-      "tenDonViHanhChinh": "UBND Xã Ia Yeng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Yeng, huyện Phú Thiện, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "640",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36367",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34729",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23911",
-      "tenDonViHanhChinh": "UBND Xã Ia Boòng",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Boòng, huyện Chư Prông, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "635",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34729",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34600",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23596",
-      "tenDonViHanhChinh": "UBND Xã Trà Đa",
-      "tenDayDuDonViHanhChinh": "UBND xã Trà Đa, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34600",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34629",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23650",
-      "tenDonViHanhChinh": "UBND Xã KRong",
-      "tenDayDuDonViHanhChinh": "UBND xã KRong, huyện KBang, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "628",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34629",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34719",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23884",
-      "tenDonViHanhChinh": "UBND Xã Ia Nan",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia Nan, huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "634",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34719",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34668",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23755",
-      "tenDonViHanhChinh": "UBND Xã Nghĩa Hòa",
-      "tenDayDuDonViHanhChinh": "UBND xã Nghĩa Hòa, huyện Chư Păh, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "630",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34668",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36344",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24076",
-      "tenDonViHanhChinh": "UBND Thị trấn Phú Túc",
-      "tenDayDuDonViHanhChinh": "UBND thị trấn Phú Túc, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36344",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34744",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23947",
-      "tenDonViHanhChinh": "UBND Xã Bờ Ngoong",
-      "tenDayDuDonViHanhChinh": "UBND xã Bờ Ngoong, huyện Chư Sê, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "636",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34744",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34652",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23713",
-      "tenDonViHanhChinh": "UBND Xã Trang",
-      "tenDayDuDonViHanhChinh": "UBND xã Trang, huyện Đăk Đoa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "629",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34652",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36337",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24019",
-      "tenDonViHanhChinh": "UBND Xã Ia KDăm",
-      "tenDayDuDonViHanhChinh": "UBND xã Ia KDăm, huyện Ia Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "638",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36337",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34701",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23839",
-      "tenDonViHanhChinh": "UBND Xã SRó",
-      "tenDayDuDonViHanhChinh": "UBND xã SRó, huyện Kông Chro, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "633",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34701",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "634",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "3",
-      "maDonViHanhChinh": "631",
-      "tenDonViHanhChinh": "UBND Huyện Đức Cơ",
-      "tenDayDuDonViHanhChinh": "UBND huyện Đức Cơ, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "64",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "634",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "36355",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "24109",
-      "tenDonViHanhChinh": "UBND Xã Uar",
-      "tenDayDuDonViHanhChinh": "UBND xã Uar, huyện Krông Pa, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "639",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "36355",
-      "trangThaiDuLieu": ""
-    },
-    {
-      "idDanhMuc": "34602",
-      "trangThaiHieuLuc": "1",
-      "maLoaiDonViHanhChinh": "4",
-      "maDonViHanhChinh": "23602",
-      "tenDonViHanhChinh": "UBND Xã An Phú",
-      "tenDayDuDonViHanhChinh": "UBND xã An Phú, thành phố Pleiku, tỉnh Gia Lai",
-      "maDonViHanhChinhCha": "625",
-      "maTinhThanh": "64",
-      "tenTinhThanh": "Tỉnh Gia Lai",
-      "donViQuanLy": "34602",
-      "trangThaiDuLieu": ""
-    }
-  ]
+  {
+    "value": "24346",
+    "label": "Ủy ban nhân dân Xã Dliê Ya, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24364",
+    "label": "Ủy ban nhân dân Xã Phú Xuân, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24318",
+    "label": "Ủy ban nhân dân Phường Đạt Hiếu, thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24157",
+    "label": "Ủy Ban Nhân Dân Xã Hòa Thuận, Thành Phố Buôn Ma Thuột, Tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24163",
+    "label": "Ủy ban nhân dân xã Ea Tu, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24305",
+    "label": "Ủy ban nhân dân Phường An Lạc, thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24325",
+    "label": "Ủy ban nhân dân Xã Ea Blang, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24544",
+    "label": "Ủy ban nhân dân xã Ea Ktur, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24547",
+    "label": "Ủy ban nhân dân Xã Ea Tiêu, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24196",
+    "label": "Ủy ban nhân dân Xã Cư Mốt, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24283",
+    "label": "Ủy ban nhân dân Xã Ea Mu0027DRóh, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24256",
+    "label": "Ủy ban nhân dân Thị trấn Ea Pốk, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24136",
+    "label": "Ủy ban nhân dân Phường Tân Lợi, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24451",
+    "label": "Ủy ban nhân dân Xã Dang Kang, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24124",
+    "label": "Ủy ban nhân dân Phường Tân An, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24151",
+    "label": "Ủy ban nhân dân Phường Ea Tam, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24331",
+    "label": "Ủy ban nhân dân Phường Thống Nhất, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24313",
+    "label": "Ủy ban nhân dân Xã Cư Pơng, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24388",
+    "label": "Ủy ban nhân dân Xã Ea Tih, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24427",
+    "label": "Ủy ban nhân dân Xã Krông Jing, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24169",
+    "label": "Ủy ban nhân dân Xã Ea Kao, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24172",
+    "label": "Ủy ban nhân dân Xã Hòa Phú, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24332",
+    "label": "Ủy ban nhân dân Phường Bình Tân, thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24208",
+    "label": "Ủy ban nhân dân Xã Ea Nam, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24238",
+    "label": "Ủy ban nhân dân Xã Ea Huar, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24380",
+    "label": "Ủy ban nhân dân Xã Ea Sar, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24406",
+    "label": "Ủy ban nhân dân Xã Cư Bông, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24466",
+    "label": "Ủy ban nhân dân Xã Hòa Lễ, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24127",
+    "label": "Uỷ ban nhân dân Phường Thống Nhất, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24130",
+    "label": "Ủy ban nhân dân Phường Thành Nhất, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24154",
+    "label": "Ủy ban nhân dân Phường Khánh Xuân, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24160",
+    "label": "Ủy ban nhân dân Xã Cư ÊBur,TP Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24166",
+    "label": "Ủy ban nhân dân Xã Hòa Thắng, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24322",
+    "label": "Ủy ban nhân dân Phường Đoàn Kết, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24334",
+    "label": "Ủy ban nhân dân Xã Ea Siên, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24190",
+    "label": "Ủy ban nhân dân Xã Ea Ral, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24202",
+    "label": "Ủy ban nhân dân Xã Ea Khăl, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24217",
+    "label": "Ủy ban nhân dân Xã Ea Rốk, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24223",
+    "label": "Ủy ban nhân dân Xã Ea Lê, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24226",
+    "label": "Ủy ban nhân dân Xã Cư KBang, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24244",
+    "label": "Ủy ban nhân dân Xã Tân Hòa, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24250",
+    "label": "Ủy ban nhân dân Xã Ea Bar, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24259",
+    "label": "Ủy ban nhân dân Thị trấn Quảng Phú, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24265",
+    "label": "Ủy ban nhân dân Xã Ea Kiết, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24286",
+    "label": "Ủy ban nhân dân Xã Quảng Hiệp, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24292",
+    "label": "Ủy ban nhân dân Xã Ea Drơng, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24295",
+    "label": "Ủy ban nhân dân Xã Ea Mu0027nang, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24298",
+    "label": "Ủy ban nhân dân Xã Cư Suê, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24316",
+    "label": "Ủy ban nhân dân Xã Pơng Drang, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24349",
+    "label": "Ủy ban nhân dân Xã Ea Tóh, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24358",
+    "label": "Ủy ban nhân dân Xã Tam Giang, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24359",
+    "label": "Ủy ban nhân dân Xã Ea Puk, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24360",
+    "label": "Ủy ban nhân dân Xã Ea Dăh, huyện Krông Năng, tỉnh Đăk Lăk"
+  },
+  {
+    "value": "24385",
+    "label": "Ủy ban nhân dân Xã Cư Huê, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24394",
+    "label": "Ủy ban nhân dân Xã Ea Kmút, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24397",
+    "label": "Ủy ban nhân dân Xã Cư Ni, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24409",
+    "label": "Ủy ban nhân dân Xã Cư Jang, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24418",
+    "label": "Ủy ban nhân dân Xã Ea Pil, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24430",
+    "label": "Ủy ban nhân dân Xã Ea Mu0027 Doal, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24442",
+    "label": "Ủy ban nhân dân Xã Krông Á, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24445",
+    "label": "Ủy ban nhân dân Xã Ea Trang, huyện Mu0027Drắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24472",
+    "label": "Ủy ban nhân dân Xã Ea Trul, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24490",
+    "label": "Ủy ban nhân dân Thị trấn Phước An, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24505",
+    "label": "Ủy ban nhân dân Xã Ea Knuêc, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24184",
+    "label": "Ủy ban nhân dân Xã Ea Hu0027leo, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24376",
+    "label": "Ủy ban nhân dân thị trấn Ea Knốp, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24391",
+    "label": "Ủy ban nhân dân Xã Ea Đar, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24400",
+    "label": "Ủy ban nhân dân Xã Ea Păl, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24403",
+    "label": "Ủy ban nhân dân Xã Ea Ô, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24424",
+    "label": "Ủy ban nhân dân Xã Ea Hu0027MLay, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24439",
+    "label": "Ủy ban nhân dân Xã Cư K Róa, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24444",
+    "label": "Ủy ban nhân dân Xã CưSan, huyện Mu0027Drắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24454",
+    "label": "Ủy ban nhân dân Xã Cư KTy, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24463",
+    "label": "Ủy ban nhân dân Xã Hòa Phong, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24478",
+    "label": "Ủy ban nhân dân Xã Cư Pui, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24484",
+    "label": "Ủy ban nhân dân Xã Cư Drăm, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24493",
+    "label": "Ủy ban nhân dân Xã KRông Búk, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24514",
+    "label": "Ủy ban nhân dân Xã Ea Kuăng, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24571",
+    "label": "Ủy ban nhân dân Xã Dur Kmăl, huyện Krông Ana, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24601",
+    "label": "Ủy ban nhân dân Xã Đắk Nuê, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24307",
+    "label": "Ủy ban nhân dân Xã Cư Né, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24502",
+    "label": "Ủy ban nhân dân Xã Ea Phê, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "645",
+    "label": "Ủy ban nhân dân Huyện Ea Hu0027Leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "646",
+    "label": "Ủy ban nhân dân Huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "648",
+    "label": "Ủy ban nhân dân Huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "652",
+    "label": "Ủy ban nhân dân Huyện Mu0027Drắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "656",
+    "label": "Ủy ban nhân dân Huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24319",
+    "label": "Ủy ban nhân dân Xã Ea Ngai, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24460",
+    "label": "Uỷ ban nhân dân Xã Hòa Tân, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24193",
+    "label": "Ủy ban nhân dân Xã Ea Wy, Huyện Ea Hu0027leo, Tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24199",
+    "label": "Ủy ban nhân dân Xã Ea Hiao, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24214",
+    "label": "Ủy ban nhân dân Xã Ia Lốp, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24221",
+    "label": "Uỷ ban nhân dân Xã Ia Rvê, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24229",
+    "label": "Ủy ban nhân dân Xã Ea Bung, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24241",
+    "label": "Ủy ban nhân dân Xã Ea Wer, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24253",
+    "label": "Ủy ban nhân dân Xã Ea Nuôl, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24268",
+    "label": "Ủy ban nhân dân Xã Ea Tar, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24382",
+    "label": "Ủy ban nhân dân Xã Xuân Phú, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24401",
+    "label": "Ủy ban nhân dân Xã Cư Prông, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24433",
+    "label": "Ủy ban nhân dân Xã Ea Riêng, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24469",
+    "label": "Ủy ban nhân dân Xã Yang Reh, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24499",
+    "label": "Ủy ban nhân dân Xã Ea Kênh, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24517",
+    "label": "Ủy ban nhân dân Xã Hòa Đông, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24556",
+    "label": "Ủy ban nhân dân Xã Dray Sáp, huyện Krông A Na, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24577",
+    "label": "Ủy ban nhân dân Xã Quảng Điền, huyện Krông A Na, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24586",
+    "label": "Ủy ban nhân dân Xã Bông Krang, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24595",
+    "label": "Ủy ban nhân dân Xã Buôn Tría, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24607",
+    "label": "Ủy ban nhân dân Xã Nam Ka, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24553",
+    "label": "Ủy ban nhân dân Xã Ea Hu, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "643",
+    "label": "Ủy ban nhân dân Thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "647",
+    "label": "Ủy ban nhân dân Huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "654",
+    "label": "Ủy ban nhân dân Huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "657",
+    "label": "Ủy ban nhân dân Huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24598",
+    "label": "Ủy ban nhân dân Xã Đắk Phơi, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "655",
+    "label": "Ủy ban nhân dân Huyện Krông Ana, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "650",
+    "label": "Ủy ban nhân dân Huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24520",
+    "label": "Ủy ban nhân dân Xã Ea Hiu, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24535",
+    "label": "Ủy ban nhân dân Xã Ea Yiêng, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24559",
+    "label": "Ủy ban nhân dân Xã Ea Na, Huyện Krông Ana, Tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24565",
+    "label": "Ủy ban nhân dân Xã Ea Bông, Huyện Krông Ana, Tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24574",
+    "label": "Ủy ban nhân dân Xã Bình Hòa, huyện Krông A Na, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24583",
+    "label": "Ủy ban nhân dân Xã Yang Tao, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24592",
+    "label": "Ủy ban nhân dân xã Buôn Triết, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24604",
+    "label": "Ủy ban nhân dân Xã Krông Nô, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24610",
+    "label": "Ủy ban nhân dân Xã Ea Ru0027Bin, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24541",
+    "label": "Ủy ban nhân dân Xã Cư Ê Wi, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24550",
+    "label": "Ủy ban nhân dân Xã Ea Bhốk, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24562",
+    "label": "Ủy ban nhân dân Xã Hòa Hiệp, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24328",
+    "label": "Ủy ban nhân dân Xã Ea Drông, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24310",
+    "label": "Ủy ban nhân dân Xã Chứ Kbô, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24317",
+    "label": "Ủy ban nhân dân Xã Tân Lập, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24370",
+    "label": "Ủy ban nhân dân Xã Ea Tân, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24215",
+    "label": "Ủy ban nhân dân Xã Ia Jlơi, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24367",
+    "label": "Ủy ban nhân dân Xã Cư Klông, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24220",
+    "label": "Ủy ban nhân dân Xã Ya Tờ Mốt, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "651",
+    "label": "Ủy ban nhân dân Huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24412",
+    "label": "Ủy ban nhân dân Thị trấn Mu0027Đrắk, huyện Mu0027Drắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24436",
+    "label": "Ủy ban nhân dân Xã Cư Mu0027ta, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24415",
+    "label": "Ủy ban nhân dân Xã Cư Prao, huyện Mu0027Đrắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24352",
+    "label": "Ủy ban nhân dân xã Ea Tam, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24148",
+    "label": "Ủy ban nhân dân Phường Tự An, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24211",
+    "label": "Ủy ban nhân dân Thị trấn Ea Súp, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24421",
+    "label": "Ủy ban nhân dân xã Ea Lai, huyện Mu0027Drắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24264",
+    "label": "Ủy ban nhân dân Xã Ea Kuêh, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24511",
+    "label": "Ủy ban nhân dân Xã Hòa An, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24487",
+    "label": "Ủy ban nhân dân xã Yang Mao, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "644",
+    "label": "Ủy ban nhân dân Thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24271",
+    "label": "Ủy ban nhân dân xã Cư Dliê Mu0027nông, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24355",
+    "label": "Ủy ban nhân dân Xã Phú Lộc, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24496",
+    "label": "Ủy ban nhân dân Xã Ea Kly, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24561",
+    "label": "Ủy ban nhân dân Xã Dray Bhăng, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24262",
+    "label": "Ủy ban nhân dân Xã Quảng Tiến, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24145",
+    "label": "Uỷ ban nhân dân Phường Tân Tiến, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24175",
+    "label": "Ủy ban nhân dân Xã Hòa Khánh, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24340",
+    "label": "Ủy ban nhân dân Xã Cư Bao, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24205",
+    "label": "Ủy ban nhân dân xã Dliê Yang, huyện Ea Hu0027Leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24235",
+    "label": "Ủy ban nhân dân Xã Krông Na, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24280",
+    "label": "Ủy ban nhân dân Xã Ea KPam, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24540",
+    "label": "Ủy ban nhân dân Xã Ea Ning, huyện Cư Kuin, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24529",
+    "label": "Ủy ban nhân dân Xã Vụ Bổn, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "653",
+    "label": "Ủy ban nhân dân Huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24508",
+    "label": "Ủy ban nhân dân Xã Ea Yông, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24232",
+    "label": "Ủy ban nhân dân Xã Cư Mu0027Lan, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24277",
+    "label": "Ủy ban nhân dân xã Ea Tul, huyện Cư Mgar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24133",
+    "label": "Uỷ ban nhân dân Phường Thành Công, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24308",
+    "label": "Ủy ban nhân dân Phường An Bình, thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24194",
+    "label": "Ủy ban nhân dân Xã Cư A Mung, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24247",
+    "label": "Ủy ban nhân dân Xã Cuôr Knia, huyện Buôn Đôn, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24181",
+    "label": "Ủy ban nhân dân Thị trấn Ea Drăng, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24373",
+    "label": "Ủy ban nhân dân Thị trấn Ea Kar, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24475",
+    "label": "Ủy ban nhân dân Xã Khuê Ngọc Điền, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24314",
+    "label": "Ủy ban nhân dân Xã Ea Sin, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24448",
+    "label": "Ủy ban nhân dân Thị trấn Krông Kmar, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "649",
+    "label": "Ủy ban nhân dân Huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24178",
+    "label": "Ủy ban nhân dân Xã Hòa Xuân, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24379",
+    "label": "Ủy ban nhân dân Xã Ea Sô, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24532",
+    "label": "Ủy ban nhân dân Xã Ea Uy, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24589",
+    "label": "Ủy ban nhân dân Xã Đắk Liêng, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24538",
+    "label": "Ủy ban nhân dân Thị trấn Buôn Trấp, huyện Krông Ana, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24142",
+    "label": "Ủy ban nhân dân Phường Tân Thành, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24274",
+    "label": "Ủy ban nhân dân Xã Ea Hu0027đing, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24361",
+    "label": "Ủy ban nhân dân Xã Ea Hồ, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24187",
+    "label": "Ủy ban nhân dân Xã Ea Sol, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24526",
+    "label": "Ủy ban nhân dân Xã Tân Tiến, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24118",
+    "label": "Ủy ban nhân dân Phường Tân Lập, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24121",
+    "label": "Ủy ban nhân dân Phường Tân Hòa, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24207",
+    "label": "Ủy ban nhân dân Xã Ea Tir, huyện Ea Hu0027leo, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24337",
+    "label": "Ủy ban nhân dân Xã Bình Thuận, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24343",
+    "label": "Ủy ban nhân dân Thị trấn Krông Năng, huyện Krông Năng, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24404",
+    "label": "Ủy ban nhân dân Xã Cư ELang, huyện Ea Kar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24580",
+    "label": "Ủy ban nhân dân Thị trấn Liên Sơn, huyện Lắk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24311",
+    "label": "Ủy ban nhân dân Phường Thiện An, thị Xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24301",
+    "label": "Ủy ban nhân dân Xã Cuôr Đăng, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24481",
+    "label": "Ủy ban nhân dân Xã Hòa Sơn, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nhân Đạo, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Trường Xuân, huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Trường Xuân, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị trấn Kiến Đức, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Kiến Đức, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Tín, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Tín, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nhân Cơ, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Kiến Thành, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đạo Nghĩa, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đạo Nghĩa, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Sin, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Ru, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24316",
+    "label": "Ủy ban nhân dân Thị Trấn Pơng Drang, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24289",
+    "label": "Ủy ban nhân dân Xã Cư Mu0027gar, huyện Cư Mu0027gar, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Thành, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Song, huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Thuận Hạnh, huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Rung, huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Rung, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Môl, huyện Đắk Song, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Thuận Hạnh, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Song, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Môl, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đức Minh, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đức Mạnh, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Thuận An, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Gằn, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Lao, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Sắk, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị Trấn Đắk Mil, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Ru0027la, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24568",
+    "label": "Ủy ban nhân dân Xã Băng A Drênh, huyện Krông A Na, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị trấn Gia Nghĩa, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Nia, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ia Lốp, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ea Blang, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị trấn Buôn Hồ, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24523",
+    "label": "Ủy ban nhân dân Xã Hòa Tiến, huyện Krông Pắc, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Trực, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Tân, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Tân, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Ru0027tih, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Khê, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Plao, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nâm Nung, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nam Nung, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị trấn Ea Tu0027ling, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Wil, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ea Pô, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nam Dong, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đăk Du0027rông, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Tâm Thắng, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Cư Knia, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Trúc Sơn, huyện Cư Jút, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ea Đê, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ea Drông, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Ea Siên, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Bình Thuận, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Cư Bao, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Thống Nhất, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đoàn Kết, huyện Krông Búk, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nam Nung, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Phú, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đức Xuyên, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nam Đà, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đăk Rô, huyện Đắk Mil, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Som, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Ha, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Sơn, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Ru0027măng, huyện Đắk Nông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Rồ, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nam Đà, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Thị trấn Đắk Nâm, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Nâm, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Sôr, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Buôn Choah, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Nâm N’đir, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đức Xuyên, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Phú, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Nang, huyện Krông Nô, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Đắk Buk So, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "",
+    "label": "Ủy ban nhân dân Xã Quảng Trực, huyện Đắk Ru0027lấp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24457",
+    "label": "Uỷ ban nhân dân Xã Hòa Thành, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24133",
+    "label": "Ủy ban nhân dân Phường Thành Công, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24145",
+    "label": "Ủy ban nhân dân Phường Tân Tiến, thành phố Buôn Ma Thuột, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24214",
+    "label": "Ủy ban nhân dân Xã Ia Lốp, huyện Ea Súp, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24328",
+    "label": "Ủy ban nhân dân Xã Ea Drông, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24334",
+    "label": "Ủy ban nhân dân Xã Ea Siên, thị xã Buôn Hồ, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24457",
+    "label": "Ủy ban nhân dân Xã Hòa Thành, huyện Krông Bông, tỉnh Đắk Lắk"
+  },
+  {
+    "value": "24221",
+    "label": "Ủy ban nhân dân Xã Ia Rvê, huyện Ea Súp, tỉnh Đắk Lắk"
+  }
+]

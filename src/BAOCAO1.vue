@@ -70,7 +70,7 @@
               <label
                 for="igateToken"
                 style="font-size: large; font-weight: bold"
-                >gliToken:</label
+                >dlkToken:</label
               >
               <v-icon
                 class="ml-2 cursor-pointer round-icon"
@@ -471,7 +471,7 @@ export default {
 
           var maNoiDangKy = getHsId.data.content[0].eForm.data.noiDangKy;
           let noiDangKyName = this.noiDangKyJson.find(
-            (data) => data.maDonViHanhChinh === maNoiDangKy
+            (data) => data.value === maNoiDangKy
           );
           this.noiDangKy = noiDangKyName.tenDonViHanhChinh;
         }

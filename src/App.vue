@@ -21,19 +21,19 @@
 
 <script>
 import BAOCAO1 from "./BAOCAO1";
-// import BAOCAO2 from "./BAOCAO2";
-// import BAOCAO3 from "./BAOCAO3";
-// import BAOCAO4 from "./BAOCAO4";
-// import BAOCAO5 from "./BAOCAO5";
-// import BAOCAO6 from "./BAOCAO6";
+import BAOCAO2 from "./BAOCAO2";
+import BAOCAO3 from "./BAOCAO3";
+import BAOCAO4 from "./BAOCAO4";
+import BAOCAO5 from "./BAOCAO5";
+import BAOCAO6 from "./BAOCAO6";
 export default {
   components: {
     BAOCAO1,
-    // BAOCAO2,
-    // BAOCAO3,
-    // BAOCAO4,
-    // BAOCAO5,
-    // BAOCAO6,
+    BAOCAO2,
+    BAOCAO3,
+    BAOCAO4,
+    BAOCAO5,
+    BAOCAO6,
   },
   data() {
     return {
