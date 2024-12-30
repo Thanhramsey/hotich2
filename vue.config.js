@@ -13,5 +13,5 @@ module.exports = {
       },
     },
   },
-  publicPath: process.env.NODE_ENV === "production" ? "/hoTich2/" : "/",
+  publicPath: process.env.NODE_ENV === "production" ? "/hotich2/" : "/",
 };
