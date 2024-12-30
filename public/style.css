@@ -1,0 +1,111 @@
+.mt-5 {
+	margin-top: 10px;
+  }
+  .mb-5 {
+	margin-bottom: 10px;
+  }
+
+  .VueXlsx {
+	height: 100vh;
+	padding: 50px;
+	/* background-image: url('bg.jpg'); */
+  }
+  .table {
+	border: 3px groove midnightblue;
+	border-radius: 5px;
+	font-size: larger;
+	width:900px
+  }
+  .table th {
+	border-right: 1px groove black;
+	padding: 5px;
+  }
+  .table th:last-child {
+	border-right: none;
+  }
+  .table td {
+	border-bottom: 1px groove black;
+	border-right: 1px groove black;
+	padding: 5px;
+  }
+  .table td:last-child {
+	border-right: none;
+  }
+  .table tr:first-child td {
+	border-top: 1px solid black;
+  }
+  .table td:first-child{
+	text-align: center;
+  }
+
+  .table tr:last-child td {
+	border-bottom: none;
+  }
+
+  /* Button style */
+  .button-77 {
+	background-color: #c2fbd7;
+	border-radius: 100px;
+	box-shadow: rgba(44, 187, 99, 0.2) 0 -25px 18px -14px inset,
+	  rgba(44, 187, 99, 0.15) 0 1px 2px, rgba(44, 187, 99, 0.15) 0 2px 4px,
+	  rgba(44, 187, 99, 0.15) 0 4px 8px, rgba(44, 187, 99, 0.15) 0 8px 16px,
+	  rgba(44, 187, 99, 0.15) 0 16px 32px;
+	color: green;
+	cursor: pointer;
+	display: inline-block;
+	font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+	font-weight: bold;
+	padding: 7px 20px;
+	text-align: center;
+	text-decoration: none;
+	transition: all 250ms;
+	border: 0;
+	font-size: 16px;
+	user-select: none;
+	-webkit-user-select: none;
+	touch-action: manipulation;
+  }
+
+  .button-77:hover {
+	box-shadow: rgba(44, 187, 99, 0.35) 0 -25px 18px -14px inset,
+	  rgba(44, 187, 99, 0.25) 0 1px 2px, rgba(44, 187, 99, 0.25) 0 2px 4px,
+	  rgba(44, 187, 99, 0.25) 0 4px 8px, rgba(44, 187, 99, 0.25) 0 8px 16px,
+	  rgba(44, 187, 99, 0.25) 0 16px 32px;
+	transform: scale(1.05) rotate(-1deg);
+  }
+  .select-sheet {
+	height: 30px;
+	padding: 5px;
+	font-weight: bold;
+	border: 2px solid cadetblue;
+	border-radius: 5px;
+  }
+
+  h2 {
+	color: darkslategray;
+  }
+
+  .big-card {
+	/* background-image: #d0d4f1 !important */
+	/* background-image: url("bg.jpg"); */
+  }
+  .v-slide-group__content.v-tabs-bar__content {
+	background-color: darkslategray;
+  }
+
+  .v-tab.v-tab--active{
+	color: lightcoral !important;
+  }
+
+  html, body {
+	height: 100%;
+	margin: 0;
+  }
+  
+  body {
+	background-image: url("bg.jpg");; /* Thay 'path/to/your-image.jpg' bằng đường dẫn đến hình ảnh của bạn */
+	background-size: cover; /* Đảm bảo hình ảnh phủ đầy toàn bộ trang */
+	background-position: center; /* Căn giữa hình ảnh */
+	background-repeat: no-repeat; /* Không lặp lại hình ảnh */
+  }
+  

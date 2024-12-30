@@ -1,0 +1,1246 @@
+{
+    "content": [
+        {
+            "id": "66253350bfe89f70f2597c18",
+            "name": "Bộ phân tiếp nhận và trả kết quả UBND Huyện  Ia Pa",
+            "code": "H21.59.99",
+            "parent": "6619f691bfe89f70f2596e90",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5febfe2295002b5c79f0fc9f",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Phường/ Xã"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "66090d95162cb160f8906385",
+            "name": "UBND Huyện Chư Prông",
+            "code": "H21.52",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e86",
+            "name": "UBND huyện Chư Păh",
+            "code": "H21.51",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "66052492162cb160f89060a6",
+            "name": "UBND huyện Chư Pưh",
+            "code": "H21.53",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e88",
+            "name": "UBND huyện Chư Sê",
+            "code": "H21.54",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e8e",
+            "name": "UBND huyện Ia Grai",
+            "code": "H21.58",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e90",
+            "name": "UBND huyện Ia Pa",
+            "code": "H21.59",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f692bfe89f70f2596e98",
+            "name": "UBND huyện Mang Yang",
+            "code": "H21.63",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f692bfe89f70f2596e9a",
+            "name": "UBND huyện Phú Thiện",
+            "code": "H21.64",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e8c",
+            "name": "UBND huyện Đak Pơ",
+            "code": "H21.56",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e8a",
+            "name": "UBND huyện Đak Đoa",
+            "code": "H21.55",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f17bbfe89f70f2596e82",
+            "name": "UBND huyện Đức Cơ",
+            "code": "H21.57",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": "",
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00004",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Phòng ban chức năng"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Function room, funtion Department"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },{
+            "id": "6619f692bfe89f70f2596e9e",
+            "name": "UBND thị xã An Khê",
+            "code": "H21.66",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "66174303bfe89f70f2596e15",
+            "name": "UBND thị xã Ayun Pa",
+            "code": "H21.67",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": "",
+            "tag": [
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        }, {
+            "id": "6619f692bfe89f70f2596e9c",
+            "name": "UBND thành phố Pleiku",
+            "code": "H21.65",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "66064858c21257111af17781",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Bộ phận tiếp nhận cấp huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                },
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "66559cb283517864a1c73509",
+            "name": "Văn phòng HĐND-UBND thành phố Pleiku",
+            "code": "H21.65.74",
+            "parent": "6619f692bfe89f70f2596e9c",
+            "logoId": null,
+            "telephone": "0369678876",
+            "tag": [
+                {
+                    "id": "660646e6c21257111af17779",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Nhóm các phòng ban huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f691bfe89f70f2596e92",
+            "name": "UBND huyện KBang",
+            "code": "H21.60",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f692bfe89f70f2596e96",
+            "name": "UBND huyện Krông Pa",
+            "code": "H21.62",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6619f692bfe89f70f2596e94",
+            "name": "UBND huyện Kông Chro",
+            "code": "H21.61",
+            "parent": "60b87fb59adb921904a0213e",
+            "logoId": null,
+            "telephone": null,
+            "tag": [
+                {
+                    "id": "0000591c4e1bd312a6f00003",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cơ quan hành chính"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Administrative agency"
+                        }
+                    ]
+                },
+                {
+                    "id": "5f7dade4b80e603d5300dcc4",
+                    "trans": [
+                        {
+                            "languageId": 228,
+                            "name": "Cấp Huyện"
+                        },
+                        {
+                            "languageId": 46,
+                            "name": "Cấp Huyện"
+                        }
+                    ]
+                }
+            ],
+            "level": {
+                "id": "5f39f4155224cf235e134c59",
+                "name": [
+                    {
+                        "languageId": 228,
+                        "name": "Quận/ Huyện"
+                    },
+                    {
+                        "languageId": 46,
+                        "name": "District"
+                    }
+                ]
+            }
+        }
+    ]
+}

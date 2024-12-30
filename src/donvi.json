@@ -1,0 +1,1574 @@
+{
+    "content": [
+  {
+      "id": "6635a42f2f006c34b683c320",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai  thị xã An Khê",
+      "code": "H21.14.01.0303",
+      "parent": "6635a42e2f006c34b683c2fc",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c31e",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai  thị xã Ayun Pa",
+      "code": "H21.14.01.0202",
+      "parent": "6635a42e2f006c34b683c2fa",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c31c",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai TP Pleiku",
+      "code": "H21.14.01.0101",
+      "parent": "6635a42e2f006c34b683c2f8",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "0000591c4e1bd312a6f00003",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cơ quan hành chính"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Administrative agency"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4335224cf235e134c5b",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Tỉnh/ Thành phố"
+              },
+              {
+                  "languageId": 46,
+                  "name": "Province/ City"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c326",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Chư Prông",
+      "code": "H21.14.01.0606",
+      "parent": "6635a42e2f006c34b683c302",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c33a",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Chư Păh",
+      "code": "H21.14.01.1616",
+      "parent": "6635a42e2f006c34b683c316",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c324",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Chư Pưh",
+      "code": "H21.14.01.0505",
+      "parent": "6635a42e2f006c34b683c300",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c322",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Chư Sê",
+      "code": "H21.14.01.0404",
+      "parent": "6635a42e2f006c34b683c2fe",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c338",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Ia Grai",
+      "code": "H21.14.01.1515",
+      "parent": "6635a42e2f006c34b683c314",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c32c",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Ia Pa",
+      "code": "H21.14.01.0909",
+      "parent": "6635a42e2f006c34b683c308",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c33c",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện KBang",
+      "code": "H21.14.01.1717",
+      "parent": "6635a42e2f006c34b683c318",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c32a",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Krông Pa",
+      "code": "H21.14.01.0808",
+      "parent": "6635a42e2f006c34b683c306",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c334",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Kông Chro",
+      "code": "H21.14.01.1313",
+      "parent": "6635a42e2f006c34b683c310",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c332",
+      "name": "Bộ phận một cửa Chi nhánh Văn phòng Đăng ký đất đai huyện Mang Yang",
+      "code": "H21.14.01.1212",
+      "parent": "6635a42e2f006c34b683c30e",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c328",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Phú Thiện",
+      "code": "H21.14.01.0707",
+      "parent": "6635a42e2f006c34b683c304",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c330",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Đak Pơ",
+      "code": "H21.14.01.1111",
+      "parent": "6635a42e2f006c34b683c30c",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c32e",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Đak Đoa",
+      "code": "H21.14.01.1010",
+      "parent": "6635a42e2f006c34b683c30a",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42f2f006c34b683c336",
+      "name": "Bộ phận một cửa chi nhánh Văn phòng Đăng ký đất đai huyện Đức Cơ",
+      "code": "H21.14.01.1414",
+      "parent": "6635a42e2f006c34b683c312",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c31a",
+      "name": "Bộ phận tiếp nhận văn phòng đăng ký đất đai tỉnh Gia lai.",
+      "code": "H21.14.0101",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4335224cf235e134c5b",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Tỉnh/ Thành phố"
+              },
+              {
+                  "languageId": 46,
+                  "name": "Province/ City"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c2fc",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai  thị xã An Khê",
+      "code": "H21.14.01.03",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c2fa",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai  thị xã Ayun Pa",
+      "code": "H21.14.01.02",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c2f8",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai TP Pleiku",
+      "code": "H21.14.01.01",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": "",
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          },
+          {
+              "id": "0000591c4e1bd312a6f00003",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cơ quan hành chính"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Administrative agency"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4335224cf235e134c5b",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Tỉnh/ Thành phố"
+              },
+              {
+                  "languageId": 46,
+                  "name": "Province/ City"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c302",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Chư Prông",
+      "code": "H21.14.01.06",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c316",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Chư Păh",
+      "code": "H21.14.01.16",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c300",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Chư Pưh",
+      "code": "H21.14.01.05",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c2fe",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Chư Sê",
+      "code": "H21.14.01.04",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c314",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Ia Grai",
+      "code": "H21.14.01.15",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c308",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Ia Pa",
+      "code": "H21.14.01.09",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c318",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện KBang",
+      "code": "H21.14.01.17",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c306",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Krông Pa",
+      "code": "H21.14.01.08",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c310",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Kông Chro",
+      "code": "H21.14.01.13",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c30e",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Mang Yang",
+      "code": "H21.14.01.12",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c304",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Phú Thiện",
+      "code": "H21.14.01.07",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c30c",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Đak Pơ",
+      "code": "H21.14.01.11",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c30a",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Đak Đoa",
+      "code": "H21.14.01.10",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635a42e2f006c34b683c312",
+      "name": "Chi nhánh Văn phòng Đăng ký đất đai huyện Đức Cơ",
+      "code": "H21.14.01.14",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": null,
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4155224cf235e134c59",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Quận/ Huyện"
+              },
+              {
+                  "languageId": 46,
+                  "name": "District"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635f778ce635e4fa0955abb",
+      "name": "Chuyên viên văn phòng đăng ký đất đai tỉnh Gia Lai",
+      "code": "H21.14.0103",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": "0888428739",
+      "tag": [
+          {
+              "id": "66064858c21257111af17781",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận cấp huyện"
+                  }
+              ]
+          },
+          {
+              "id": "65fd42ecdb81432721b1fa61",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Bộ phận tiếp nhận"
+                  }
+              ]
+          },
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4335224cf235e134c5b",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Tỉnh/ Thành phố"
+              },
+              {
+                  "languageId": 46,
+                  "name": "Province/ City"
+              }
+          ]
+      }
+  },
+  {
+      "id": "6635ef572f006c34b683c37c",
+      "name": "Lãnh đạo văn phòng đăng ký đất đai tỉnh Gia Lai",
+      "code": "H21.14.0102",
+      "parent": "66359bbece635e4fa0955ab7",
+      "logoId": null,
+      "telephone": "0369445566",
+      "tag": [
+          {
+              "id": "0000591c4e1bd312a6f00005",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Nhóm phòng ban chi cục"
+                  }
+              ]
+          },
+          {
+              "id": "5f7dade4b80e603d5300dcc4",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Cấp Huyện"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Cấp Huyện"
+                  }
+              ]
+          },
+          {
+              "id": "0000591c4e1bd312a6f00004",
+              "trans": [
+                  {
+                      "languageId": 228,
+                      "name": "Phòng ban chức năng"
+                  },
+                  {
+                      "languageId": 46,
+                      "name": "Function room, funtion Department"
+                  }
+              ]
+          }
+      ],
+      "level": {
+          "id": "5f39f4335224cf235e134c5b",
+          "name": [
+              {
+                  "languageId": 228,
+                  "name": "Tỉnh/ Thành phố"
+              },
+              {
+                  "languageId": 46,
+                  "name": "Province/ City"
+              }
+          ]
+      }
+  }
+]
+}
