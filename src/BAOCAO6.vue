@@ -214,9 +214,9 @@ export default {
 
     async checkTrangThai() {
       const response = await axios.post(
-        "https://apiigate.gialai.gov.vn/ad/service/judicial-civil-status/--dossiers",
+        "https://dvcapi.daklak.gov.vn/ad/service/judicial-civil-status/--dossiers",
         {
-          maTinh: "64",
+          maTinh: "66",
           maDinhDanhHoSo: [this.maHso2],
           module: this.module, // Nối tiền tố với name
         },
@@ -238,7 +238,7 @@ export default {
 
     async getHsoId() {
       const maHsoTrimmed = this.maHso2.trim().replace(/\s+/g, "");
-      const getHsoIdUrl = `https://apiigate.gialai.gov.vn/pa/dossier/search?page=0&size=20&applicant-organization=&spec=slice&code=${maHsoTrimmed}`;
+      const getHsoIdUrl = `https://dvcapi.daklak.gov.vn/pa/dossier/search?page=0&size=20&applicant-organization=&spec=slice&code=${maHsoTrimmed}`;
 
       try {
         const getHsId = await axios.get(getHsoIdUrl, {
@@ -266,7 +266,7 @@ export default {
 
     async getTTHosO() {
       const maHsoTrimmed = this.maHso.trim().replace(/\s+/g, "");
-      const getHsoIdUrl = `https://apiigate.gialai.gov.vn/ad/api/lienthongDVCLT/getLog?nationCode=${maHsoTrimmed}`;
+      const getHsoIdUrl = `https://dvcapi.daklak.gov.vn/ad/api/lienthongDVCLT/getLog?nationCode=${maHsoTrimmed}`;
 
       try {
         const response = await axios.get(getHsoIdUrl, {
@@ -319,7 +319,7 @@ export default {
         return;
       }
       const maHsoTrimmed = this.maHso2.trim().replace(/\s+/g, "");
-      const getKetQuaUrl = `https://apiigate.gialai.gov.vn/pa/judicial-civil-status/--sync-dossiers?code=${maHsoTrimmed}`;
+      const getKetQuaUrl = `https://dvcapi.daklak.gov.vn/pa/judicial-civil-status/--sync-dossiers?code=${maHsoTrimmed}`;
       const response = await axios.post(
         getKetQuaUrl,
         {},

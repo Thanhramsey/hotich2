@@ -41,11 +41,11 @@ export default {
       tab: 0,
       items: [
         { tab: "Get Token", content: "BAOCAO1" },
-        // { tab: "Get tọa độ", content: "BAOCAO2" },
-        // { tab: "Tạo object", content: "BAOCAO3" },
-        // { tab: "Clone quy trình DD", content: "BAOCAO4" },
-        // { tab: "Clone xã", content: "BAOCAO5" },
-        // { tab: "DVCLT", content: "BAOCAO6" },
+        { tab: "Get tọa độ", content: "BAOCAO2" },
+        { tab: "Tạo object", content: "BAOCAO3" },
+        { tab: "Clone quy trình DD", content: "BAOCAO4" },
+        { tab: "Clone xã", content: "BAOCAO5" },
+        { tab: "DVCLT", content: "BAOCAO6" },
       ],
     };
   },
