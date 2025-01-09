@@ -15,14 +15,6 @@
           <v-col>
             <!-- Textfield nhập processId -->
             <v-text-field
-              label="Mã Hồ sơ Liên Thông"
-              v-model="maHso"
-              outlined
-            ></v-text-field>
-          </v-col>
-          <v-col>
-            <!-- Textfield nhập processId -->
-            <v-text-field
               label="Mã Hồ sơ"
               v-model="maHso2"
               outlined
@@ -30,6 +22,14 @@
           </v-col>
           <v-col>
             <span>Module: {{ module }}</span>
+          </v-col>
+          <v-col>
+            <!-- Textfield nhập processId -->
+            <v-text-field
+              label="Mã Hồ sơ Liên Thông"
+              v-model="maHso"
+              outlined
+            ></v-text-field>
           </v-col>
         </v-row>
         <v-row>
@@ -123,7 +123,15 @@
             no-data-text="Không có log"
           >
             <template v-slot:item.requestBody="{ item }">
-              <pre>{{ item.requestBody }}</pre>
+              <pre
+                style="
+                  max-width: 500px;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                "
+              >
+                {{ item.requestBody }}
+              </pre>
             </template>
             <template v-slot:item.responseBody="{ item }">
               <pre>{{ item.responseBody }}</pre>
@@ -266,6 +274,8 @@ export default {
 
     async getTTHosO() {
       const maHsoTrimmed = this.maHso.trim().replace(/\s+/g, "");
+      this.data = [];
+
       const getHsoIdUrl = `https://dvcapi.daklak.gov.vn/ad/api/lienthongDVCLT/getLog?nationCode=${maHsoTrimmed}`;
 
       try {
@@ -277,21 +287,32 @@ export default {
         if (response.data && response.data.content.length > 0) {
           response.data.content.forEach((element) => {
             if (element.requestBody.trangThai) {
-              this.data.push(element);
-              if (this.module == "") {
-                if (
-                  element.requestBody.maTTHC == "2.000986" ||
-                  element.requestBody.maTTHC == "2.001023"
-                ) {
-                  this.module = "LTKS";
-                } else if (element.requestBody.maTTHC == "1.011733") {
-                  this.module = "LTKT";
+              // Check if element already exists based on trangThai and responseBody.status
+              const exists = this.data.some(
+                (item) =>
+                  item.requestBody.trangThai ===
+                    element.requestBody.trangThai &&
+                  item.responseBody.status === element.responseBody.status
+              );
+
+              if (!exists) {
+                this.data.push(element);
+                if (this.module == "") {
+                  if (
+                    element.requestBody.maTTHC == "2.000986" ||
+                    element.requestBody.maTTHC == "2.001023"
+                  ) {
+                    this.module = "LTKS";
+                  } else if (element.requestBody.maTTHC == "1.011733") {
+                    this.module = "LTKT";
+                  }
                 }
+                this.maHso2 = element.requestBody.maHoSo;
               }
-              this.maHso2 = element.requestBody.maHoSo;
             }
           });
         }
+
         this.data.sort(
           (a, b) => a.requestBody.trangThai - b.requestBody.trangThai
         );
@@ -309,8 +330,34 @@ export default {
         }
       }
     },
-    handleButtonClick(item) {
-      alert(item);
+    async handleButtonClick(item) {
+      console.log(item);
+      const dayLaiUrl = `https://dvcapi.daklak.gov.vn/ad/api/lienthongDVCLT/capNhatTrangThaiHoSoDVCLTHoTich`;
+      try {
+        const response = await axios.post(dayLaiUrl, item.requestBody, {
+          headers: {
+            Authorization: `Bearer ${this.igateToken}`, // Đính kèm token vào header
+          },
+        });
+        if (response) {
+          console.log(response.data);
+          if (response.data.status == 200) {
+            alert(response.data.title);
+          } else {
+            alert(response.data.errors.soHoSoLT[0]);
+          }
+        }
+      } catch (error) {
+        alert(error);
+        if (error.response) {
+          console.error("Dữ liệu phản hồi lỗi:", error.response.data);
+          console.error("Trạng thái phản hồi lỗi:", error.response.status);
+        } else if (error.request) {
+          console.error("Yêu cầu lỗi:", error.request);
+        } else {
+          console.error("Thông báo lỗi:", error.message);
+        }
+      }
     },
 
     async getKetQua() {
@@ -353,6 +400,12 @@ input {
   border-radius: 4px;
   box-sizing: border-box;
   font-size: 16px;
+}
+.response-column {
+  max-width: 300px; /* Đặt độ rộng tối đa */
+  white-space: nowrap; /* Không cho phép xuống dòng */
+  overflow: hidden; /* Ẩn phần vượt quá */
+  text-overflow: ellipsis; /* Hiển thị dấu "..." khi nội dung vượt quá */
 }
 
 button {
